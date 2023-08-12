@@ -161,8 +161,5 @@ Welcome to the DevOps and Cloud Domain Training program. This comprehensive trai
 **Day 8 - Linux Course Completion and Recap**
 
 - Completing the Hands-on Introduction to Linux Commands and Shell Scripting course.
-- Recap of the entire training, key takeaways, and a comprehensive overview of DevOps and cloud practices.
+- Recap the entire training, key takeaways, and a comprehensive DevOps and cloud practices overview.
 
-Congratulations on completing the DevOps and Cloud Domain Training program! You've gained practical knowledge, hands-on experience, and valuable skills to excel in DevOps
-
- and cloud-related roles. Best of luck in your future endeavors!
