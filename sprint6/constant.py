@@ -1,0 +1,1 @@
+API_URL = "https://${Token[TOKEN.1137]}.execute-api.${Token[AWS.Region.11]}.${Token[AWS.URLSuffix.8]}/${Token[TOKEN.1204]}/Products"
